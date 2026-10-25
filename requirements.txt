@@ -1,0 +1,8 @@
+# BibleShow Linux - Python Dependencies
+# Compatible with Ubuntu 20.04/22.04/24.04, Zorin OS 16/17, Linux Mint, Debian 11/12
+
+PyQt6>=6.5.0
+PyQt6-Multimedia>=6.5.0
+
+# Optional alternative if using PySide6 instead of PyQt6:
+# PySide6>=6.5.0

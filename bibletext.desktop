@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=BIBLETEXT Linux
+Comment=Church Scripture & Dual-Screen Presentation Software
+Exec=python3 /opt/bibletext/main.py
+Icon=applications-multimedia
+Terminal=false
+Type=Application
+Categories=AudioVideo;Presentation;Utility;
+Keywords=bible;church;scripture;presentation;projector;worship;bibletext;
+StartupNotify=true
